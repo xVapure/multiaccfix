@@ -1,0 +1,4 @@
+{
+  "FStringDebugLuaLogLevel": "trace",
+  "FStringDebugLuaLogPattern": "ExpChat/mountClientApp"
+}
